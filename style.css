@@ -1,12 +1,12 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f8f9fa;  /* 淡灰背景 */
+    background-color: #f8f9fa;  /* light grey */
     color: #333;
     text-align: center;
 }
 
 h1, h2, h5 {
-    color: #0d6efd;  /* Bootstrap 蓝色 */
+    color: #0d6efd;  
 }
 
 .card-title {
@@ -27,5 +27,5 @@ h1, h2, h5 {
 }
 
 .case-title {
-    color: #bf1b9e; /*深蓝色代码*/
+    color: #bf1b9e; /*cases title color*/
 }
